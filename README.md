@@ -29,7 +29,7 @@ I am an IT undergraduate focused on turning complex ideas into intuitive, functi
 ## 📌 Featured Projects
 
 ### 🌐 Full-Stack Web Projects
-- **[Web Project 1 Name](https://github.com/YOUR-USERNAME/PROJECT-REPO-NAME):** Brief sentence describing what the project does (e.g., *Full-stack e-commerce web app built with React & Node.js featuring user authentication and payment integration.*)
+- Pharmacy Website([https://github.com/YOUR-USERNAME/PROJECT-REPO-NAME](https://github.com/Thathsarani-PVS/pharmacy-project)):
 - **[Web Project 2 Name](https://github.com/YOUR-USERNAME/PROJECT-REPO-NAME):** Brief sentence describing the app (e.g., *Interactive task management web application with dynamic dashboards.*)
 
 ### 📊 Data Analytics & BI Projects
