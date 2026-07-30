@@ -1,6 +1,6 @@
-# Hi there, I'm [Oyage Name] 👋 
+# Hi there, I'm [Thathsarani] 👋 
 
-### 🎓 IT Undergraduate | Full-Stack Developer & Data Analytics Enthusiast
+### 🎓 IT Undergraduate | Full-Stack Developer, Business & Data Analytics Enthusiast
 
 I am an IT undergraduate focused on turning complex ideas into intuitive, functional software solutions. I bridge the gap between full-stack web development and data analytics to build smart, data-driven applications.
 
@@ -16,9 +16,9 @@ I am an IT undergraduate focused on turning complex ideas into intuitive, functi
 ## 🛠️ Tech Stack & Tools
 
 **Full-Stack Web Development**
-- **Frontend:** HTML5, CSS3, JavaScript, React / Bootstrap *(Oya use karapu frameworks danna)*
-- **Backend & Database:** Node.js, Python, Java, MySQL / MongoDB
-- **Tools:** Git, GitHub, VS Code, Postman
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend & Database:**  Php, Java, MySQL 
+- **Tools:**  GitHub, VS Code, Xampp
 
 **Data Analytics & Business Intelligence**
 - **BI Tools:** Power BI Desktop (Dashboard Design, Data Modeling, DAX)
@@ -38,10 +38,10 @@ I am an IT undergraduate focused on turning complex ideas into intuitive, functi
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radial)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thathsarani-PVS&show_icons=true&theme=radial)
 
 ---
 
 ## 📬 Let's Connect!
-- 💼 **LinkedIn:** []
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/sachinthi-thathsarani-693964282/]
 - 📧 **Email:** [pvstdmvsch@gmail.com]
