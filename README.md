@@ -1,4 +1,5 @@
 # Hi there, I'm Thathsarani 👋 
+# Welcome to My GITHUB...
 
 ### 🎓 IT Undergraduate | Full-Stack Developer, Business & Data Analytics Enthusiast
 
@@ -24,7 +25,7 @@ I am an IT undergraduate focused on turning complex ideas into intuitive, functi
 - **BI Tools:** Power BI Desktop (Dashboard Design, Data Modeling, DAX)
 - **Data Prep & Analysis:** Microsoft Excel, SQL
 
----
+-------------------------------------------------------------------------------------------------------------------
 
 ## 📌 Featured Projects
 
@@ -33,14 +34,14 @@ I am an IT undergraduate focused on turning complex ideas into intuitive, functi
 - Full stack Website on Tea(https://github.com/Thathsarani-PVS/Ceylon-Tea-Website):
 
 ### 📊 Data Analytics & BI Projects
-- **[Executive Sales & Profit Analytics Dashboard](https://github.com/YOUR-USERNAME/PowerBI-Executive-Sales-Dashboard):** Interactive Power BI dashboard analyzing company sales trends, profit margins, and regional growth metrics.
+- **[Executive Sales & Profit Analytics Dashboard]([https://github.com/YOUR-USERNAME/PowerBI-Executive-Sales-Dashboard](https://github.com/Thathsarani-PVS/PowerBI-Executive-Sales-Dashboard)):** Interactive Power BI dashboard analyzing company sales trends, profit margins, and regional growth metrics.
 
----
+---------------------------------------------------------------------------------------------------------------------
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Thathsarani-PVS&show_icons=true&theme=radial](https://github.com/Thathsarani-PVS))
 
----
+---------------------------------------------------------------------------------------------------------------------
 
 ## 📬 Let's Connect!
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/sachinthi-thathsarani-693964282/]
