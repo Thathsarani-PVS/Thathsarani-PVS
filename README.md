@@ -30,7 +30,7 @@ I am an IT undergraduate focused on turning complex ideas into intuitive, functi
 
 ### 🌐 Full-Stack Web Projects
 - Pharmacy Website([https://github.com/YOUR-USERNAME/PROJECT-REPO-NAME](https://github.com/Thathsarani-PVS/pharmacy-project)):
-- **[Web Project 2 Name](https://github.com/YOUR-USERNAME/PROJECT-REPO-NAME):** Brief sentence describing the app (e.g., *Interactive task management web application with dynamic dashboards.*)
+- Full stack Website on Tea(https://github.com/Thathsarani-PVS/Ceylon-Tea-Website):
 
 ### 📊 Data Analytics & BI Projects
 - **[Executive Sales & Profit Analytics Dashboard](https://github.com/YOUR-USERNAME/PowerBI-Executive-Sales-Dashboard):** Interactive Power BI dashboard analyzing company sales trends, profit margins, and regional growth metrics.
