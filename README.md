@@ -1,4 +1,4 @@
-# Hi there, I'm [Thathsarani] 👋 
+# Hi there, I'm Thathsarani 👋 
 
 ### 🎓 IT Undergraduate | Full-Stack Developer, Business & Data Analytics Enthusiast
 
@@ -38,7 +38,7 @@ I am an IT undergraduate focused on turning complex ideas into intuitive, functi
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thathsarani-PVS&show_icons=true&theme=radial)
+![Your GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Thathsarani-PVS&show_icons=true&theme=radial](https://github.com/Thathsarani-PVS))
 
 ---
 
