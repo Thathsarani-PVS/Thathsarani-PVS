@@ -1,7 +1,7 @@
 # Hi there, I'm Thathsarani 👋 
 # Welcome to My GITHUB...
 
-### 🎓 IT Undergraduate | Full-Stack Developer, Business & Data Analytics Enthusiast
+### 🎓 IT Undergraduate | Full-Stack Developer | Business & Data Analytics Enthusiast
 
 I am an IT undergraduate focused on turning complex ideas into intuitive, functional software solutions. I bridge the gap between full-stack web development and data analytics to build smart, data-driven applications.
 
